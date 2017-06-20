@@ -12,3 +12,9 @@ These shell scripts execute gnu tar (https://www.gnu.org/software/tar/) and gnu 
 Usage
 ------
 Make files executable. Execute in terminal. Type '-h' or '--help' for help.
+
+License Note
+------------
+This is a free bash script code. It is a script for using tar and gnu gzip. For that reason you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
+
+This piece of code is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with sharpo.  If not, see <http://www.gnu.org/licenses/>.
