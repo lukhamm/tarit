@@ -7,7 +7,7 @@ These shell scripts are simply wrapper to make taring and untaring in linux easi
 
 Requirements
 ------------
-These shell scripts execute gnu tar (https://www.gnu.org/software/tar/) and gnu gzip (https://www.gnu.org/software/gzip/) and are useless without those programs. Both programs are installed by default in most linux distributions.
+These shell scripts execute gnu tar (https://www.gnu.org/software/tar/) and gnu gzip (https://www.gnu.org/software/gzip/) and are useless without those programs. Both programs are installed by default in most linux distributions and are available under the GNU General Public License.
 
 Usage
 ------
